@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/blajeen/blajeen/main/assets/blajeen-profile-banner.png" alt="Blajeen Labs" width="100%" />
+</div>
+
 # Breno Guimarães · Blajeen Labs
 
 Construo produtos próprios na interseção entre tecnologia, aprendizagem e imaginação.
@@ -15,7 +19,9 @@ Meu projeto principal no momento: uma plataforma de microaprendizagem para quem 
 
 A Blajeen Labs é um estúdio independente que cria produtos próprios — jogos, ferramentas e experimentos que começam como ideias e ganham forma no código.
 
-- [Cliddy](https://github.com/blajeen/cliddy) — assistente médico digital; projeto pausado
+- **Docalio** — produto em desenvolvimento
+- **Gramelio** — jogo em desenvolvimento
+- [Cliddy](https://github.com/blajeen/cliddy) — assistente médico digital; site pausado
 - [Alambique](https://github.com/blajeen/prompt-generator) — gerador local de prompts
 
 ## Agora
