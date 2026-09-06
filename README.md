@@ -23,6 +23,19 @@ A **Blajeen Labs** é um estúdio independente que cria produtos próprios e tra
 
 O trabalho reúne planejamento de produto, arquitetura, documentação, UX, identidade, desenvolvimento, testes, publicação e evolução contínua. Ferramentas de IA ajudam a explorar possibilidades e acelerar etapas, enquanto decisões, qualidade e validação permanecem sob direção humana.
 
+## Produtos
+
+Programas e sites do próprio laboratório. Sem conta, sem mensalidade e sem função trancada — o que é seu fica no seu computador ou no seu aparelho.
+
+| Produto | Estado | Para que existe |
+|---|---|---|
+| **[Clearlio](https://blajeen.com.br/produtos/clearlio)** · [downloads](https://github.com/blajeen/clearlio-download/releases) | Disponível | Limpeza de disco para Windows que explica cada coisa antes de tirar. Nada é apagado de vez: tudo vai para uma lixeira própria, fica 30 dias e volta com um clique. |
+| **[Notalio](https://blajeen.com.br/produtos/notalio)** · [downloads](https://github.com/blajeen/notalio-download/releases) | Disponível | Bloco de notas com três cadernos que se alternam por um interruptor: texto, tabela e lista de tarefas. Guarda sozinho, em `.txt`, `.csv` e `.md` comuns que abrem em qualquer programa. |
+| **[Vistalio](https://vistalio-chi.vercel.app)** | Em construção | Um mapa do Brasil com 628 pontos fotográficos nos 27 estados: mirantes, praias, cachoeiras e arquitetura, cada um com foto, descrição e o caminho no Google Maps. |
+| **[Planilha de Controle Financeiro](https://blajeen.com.br/produtos/planilha-financeira)** | Disponível | Controle financeiro pessoal pronto para usar: cadastre uma vez o que se repete todo mês, lance o resto conforme acontece, e o painel se vira sozinho. |
+
+> O código destes produtos é fechado. O que é público são os arquivos para baixar, com o SHA-256 de cada um — enquanto não houver assinatura de código, é isso que permite conferir que o arquivo baixado é o mesmo que saiu daqui.
+
 ## Jogos e experiências autorais
 
 | Produto | Estado | Para que existe |
@@ -32,6 +45,9 @@ O trabalho reúne planejamento de produto, arquitetura, documentação, UX, iden
 | **[Gramelio](https://blajeen.com.br/projects/gramelio)** | Em desenvolvimento | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
 | **[Catelio](https://blajeen.com.br/projects/catelio)** | Em desenvolvimento | Exploração casual para celular, com um gato, mapas compactos, interações leves e pequenas descobertas. |
 | **[Dogolio](https://blajeen.com.br/projects/dogolio)** | Em desenvolvimento | A história de um cachorro caramelo explorando a mesma cidade do Catelio por uma perspectiva mais urbana e cinematográfica. |
+| **[Morvelio](https://blajeen.com.br/projects/morvelio)** | Em formação | Action-roguelite mobile em visão de cima: monte um trio, atravesse uma cidadela congelada e decida a cada orbe se o próximo corredor vale o risco. |
+| **[Mazelio](https://blajeen.com.br/projects/mazelio)** | Em formação | Tower defense vertical em que cada torre causa dano e também vira parede: em vez de defender uma rota pronta, você constrói o labirinto por onde os inimigos vão passar. |
+| **[Socialio](https://blajeen.com.br/projects/socialio)** | Em formação | MMO social 2D de cima para celular, em que as pessoas dividem a cidade de Graystones e escutam a mesma programação musical no mesmo momento. |
 
 > Os jogos em desenvolvimento são apresentados como conceitos em formação. Plataformas, datas e funcionalidades só são anunciadas quando estiverem validadas.
 
