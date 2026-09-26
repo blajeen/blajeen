@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blajeen.com.br/">
-    <img src="https://raw.githubusercontent.com/blajeen/blajeen/main/assets/blajeen-labs-ecosystem-banner.png" alt="Ecossistema Blajeen Labs: Revalio, Docalio, Gramelio, Catelio, Dogolio e SaaS" width="100%" />
+    <img src="https://raw.githubusercontent.com/blajeen/blajeen/main/assets/blajeen-labs-ecosystem-banner.png" alt="Identidade visual da Blajeen Labs com jogos autorais e sistemas para negócios" width="100%" />
   </a>
 
   <h1>Breno Guimarães · Blajeen Labs</h1>
@@ -41,15 +41,15 @@ Programas e sites do próprio laboratório. Sem conta, sem mensalidade e sem fun
 | Produto | Estado | Para que existe |
 |---|---|---|
 | **[Revalio](https://blajeen.com.br/projects/revalio)** | Disponível | Microaprendizagem para quem estuda para o Revalida e para a residência, com sessões curtas, trilhas, prática, revisão e progresso. |
-| **[Docalio](https://blajeen.com.br/projects/docalio)** | Em desenvolvimento | Jogo de estratégia médica por níveis no qual salvar todos os pacientes depende de priorizar corretamente cada atendimento. |
-| **[Gramelio](https://blajeen.com.br/projects/gramelio)** | Em desenvolvimento | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
-| **[Catelio](https://blajeen.com.br/projects/catelio)** | Em desenvolvimento | Exploração casual para celular, com um gato, mapas compactos, interações leves e pequenas descobertas. |
+| **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Disponível no iOS · Android em breve | Jogo de estratégia médica por níveis no qual salvar os pacientes depende de priorizar corretamente cada atendimento. Casos ficcionais. |
+| **[Gramelio](https://blajeen.com.br/projects/gramelio)** · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Disponível no iOS · Android em breve | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
+| **[Catelio](https://blajeen.com.br/projects/catelio)** · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Disponível no iOS · Android em breve | Explore uma cidade brasileira low-poly com um gato, no seu ritmo. |
 | **[Dogolio](https://blajeen.com.br/projects/dogolio)** | Em desenvolvimento | A história de um cachorro caramelo explorando a mesma cidade do Catelio por uma perspectiva mais urbana e cinematográfica. |
-| **[Morvelio](https://blajeen.com.br/projects/morvelio)** | Em formação | Action-roguelite mobile em visão de cima: monte um trio, atravesse uma cidadela congelada e decida a cada orbe se o próximo corredor vale o risco. |
-| **[Mazelio](https://blajeen.com.br/projects/mazelio)** | Em formação | Tower defense vertical em que cada torre causa dano e também vira parede: em vez de defender uma rota pronta, você constrói o labirinto por onde os inimigos vão passar. |
+| **[Morvelio](https://blajeen.com.br/projects/morvelio)** | Protótipo jogável · em desenvolvimento | Action-roguelite mobile com campanha solo, exploração e combates. A página mostra capturas reais do protótipo em testes. |
+| **[Mazelio](https://blajeen.com.br/projects/mazelio)** · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Disponível no iOS · Android em breve | Tower defense vertical em que cada torre causa dano e também vira parede: você constrói o labirinto por onde os inimigos vão passar. |
 | **[Socialio](https://blajeen.com.br/projects/socialio)** | Em formação | MMO social 2D de cima para celular, em que as pessoas dividem a cidade de Graystones e escutam a mesma programação musical no mesmo momento. |
 
-> Os jogos em desenvolvimento são apresentados como conceitos em formação. Plataformas, datas e funcionalidades só são anunciadas quando estiverem validadas.
+> Quatro jogos já estão na App Store. As versões para Google Play estão em preparação, sem data anunciada. Os demais projetos são apresentados conforme o estágio real: protótipo jogável ou desenvolvimento.
 
 ## SaaS Blajeen Labs
 
@@ -57,11 +57,11 @@ Bases próprias adaptadas à identidade, às regras e à rotina de cada negócio
 
 | SaaS | Criado para | Direção do produto |
 |---|---|---|
-| **[Barbelio](https://blajeen.com.br/projects/barbearia)** | Barbearias | Site, agendamento sem conta para o cliente, equipe, serviços e gestão da rotina. |
-| **[Studelio](https://blajeen.com.br/projects/personal-studio)** | Personal trainers e estúdios | Presença digital, agenda, treinos, acompanhamento de alunos e gestão conectados. |
-| **[Beautelio](https://blajeen.com.br/projects/salao-estetica)** | Estética, unhas, sobrancelhas e maquiagem | Site, serviços, profissionais, portfólio, agendamento, histórico e gestão. |
-| **[Lojalio](https://blajeen.com.br/projects/ecommerce)** | Lojas e marcas | Vitrine própria, catálogo, busca, carrinho, atendimento assistido, estoque e painel de gestão. |
-| **[Doutelio](https://blajeen.com.br/projects/clinica-medica)** | Médicos independentes e consultórios | Site, agenda, pacientes, prontuário e preparação de documentos clínicos em um só fluxo. |
+| **[Barbelio](https://blajeen.com.br/projects/barbelio)** | Barbearias | Site, agendamento sem conta para o cliente, equipe, serviços e gestão da rotina. |
+| **[Studelio](https://blajeen.com.br/projects/studelio)** | Personal trainers e estúdios | Presença digital, agenda, treinos, acompanhamento de alunos e gestão conectados. |
+| **[Beautelio](https://blajeen.com.br/projects/beautelio)** | Estética, unhas, sobrancelhas e maquiagem | Site, serviços, profissionais, portfólio, agendamento, histórico e gestão. |
+| **[Lojalio](https://blajeen.com.br/projects/lojalio)** | Lojas e marcas | Vitrine própria, catálogo, busca, carrinho, atendimento assistido, estoque e painel de gestão. |
+| **[Doutelio](https://blajeen.com.br/projects/doutelio)** | Médicos independentes e consultórios | Site, agenda, pacientes, prontuário e preparação de documentos clínicos em um só fluxo. |
 | **[Foodelio](https://blajeen.com.br/projects/foodelio)** | Restaurantes e operações de alimentação | Cardápio digital e organização de pedidos em uma experiência com identidade própria. |
 | **[Pipelio](https://blajeen.com.br/projects/pipelio)** | Profissionais e equipes comerciais | CRM para organizar contatos, oportunidades, etapas e próximos passos sem perder contexto. |
 | **[Painel central](https://blajeen.com.br/projects/painel-administrativo)** | Operações que usam os SaaS | Administração completa para ajustar identidade, módulos, dados e rotina do SaaS em um só lugar. |
@@ -75,6 +75,18 @@ Experiência digital criada para um ateliê que transforma fotos de pets em mini
 ### [Dom Guima](https://blajeen.com.br/trabalhos/dom-guima)
 
 E-commerce desenvolvido com catálogo próprio e um painel administrativo personalizado para o dono controlar produtos, imagens, preços, disponibilidade e estoque de acordo com a operação real da loja.
+
+### [Pousada Dona Lia](https://blajeen.com.br/trabalhos/dona-lia)
+
+Site de hospedagem com apresentação das acomodações, contato direto e painel privado para organizar reservas. Projeto em homologação.
+
+### [Spot Hotel e Pousada](https://blajeen.com.br/trabalhos/spot-hotel)
+
+Site para apresentar a hospedagem e painel privado para agenda, reservas, hóspedes e operação. Projeto em homologação.
+
+### [Agro Weld](https://blajeen.com.br/trabalhos/agro-weld)
+
+Vitrine e catálogo digital para EPIs em couro, vestimentas agrícolas e uniformes, com caminhos de compra e orçamento.
 
 ## Princípios de produto
 

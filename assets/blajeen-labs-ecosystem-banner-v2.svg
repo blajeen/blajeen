@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101914"/>
+      <stop offset="0.58" stop-color="#080d0a"/>
+      <stop offset="1" stop-color="#132016"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b9fb36"/>
+      <stop offset="1" stop-color="#68bb28"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#c9fc8a" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="520" fill="url(#back)"/>
+  <rect width="1600" height="520" fill="url(#grid)"/>
+  <path d="M0 0h1600v4H0z" fill="url(#signal)"/>
+  <path d="M0 516h1600v4H0z" fill="url(#signal)"/>
+  <path d="M328 32v456" stroke="#b9fb36" stroke-opacity=".22"/>
+  <text x="360" y="53" fill="#b9fb36" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">INDEPENDENTE POR NATUREZA  /  BLAJEEN LABS</text>
+  <text x="355" y="145" fill="#f5f7ec" font-family="Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="-3">BLAJEEN LABS</text>
+  <text x="360" y="197" fill="#d0d8c9" font-family="Arial,sans-serif" font-size="25">Jogos autorais, SaaS e projetos para clientes — do conceito ao produto.</text>
+  <path d="M360 225h1170" stroke="#b9fb36" stroke-opacity=".2"/>
+  <text x="360" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">04 JOGOS NA APP STORE</text>
+  <text x="730" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">06 SAAS ATIVOS</text>
+  <text x="1030" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">05 PROJETOS DE CLIENTES</text>
+  <text x="360" y="308" fill="#8d9a89" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">OITO UNIVERSOS DE JOGO</text>
+  <g fill="#101a13" stroke="#a9f23a" stroke-opacity=".22" stroke-width="2">
+    <rect x="357" y="327" width="120" height="120" rx="15"/>
+    <rect x="507" y="327" width="120" height="120" rx="15"/>
+    <rect x="657" y="327" width="120" height="120" rx="15"/>
+    <rect x="807" y="327" width="120" height="120" rx="15"/>
+    <rect x="957" y="327" width="120" height="120" rx="15"/>
+    <rect x="1107" y="327" width="120" height="120" rx="15"/>
+    <rect x="1257" y="327" width="120" height="120" rx="15"/>
+    <rect x="1407" y="327" width="120" height="120" rx="15"/>
+  </g>
+  <g fill="#e8ede4" font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <text x="417" y="467">REVALIO</text>
+    <text x="567" y="467">DOCALIO</text>
+    <text x="717" y="467">GRAMELIO</text>
+    <text x="867" y="467">CATELIO</text>
+    <text x="1017" y="467">DOGOLIO</text>
+    <text x="1167" y="467">MORVELIO</text>
+    <text x="1317" y="467">MAZELIO</text>
+    <text x="1467" y="467">SOCIALIO</text>
+  </g>
+  <text x="52" y="480" fill="#a3b697" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">BLAJEEN.COM.BR</text>
+</svg>
