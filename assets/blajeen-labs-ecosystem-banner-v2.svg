@@ -25,26 +25,24 @@
   <text x="360" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">04 JOGOS NA APP STORE</text>
   <text x="730" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">06 SAAS ATIVOS</text>
   <text x="1030" y="274" fill="#b9fb36" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2">05 PROJETOS DE CLIENTES</text>
-  <text x="360" y="308" fill="#8d9a89" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">OITO UNIVERSOS DE JOGO</text>
+  <text x="360" y="308" fill="#8d9a89" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">SETE UNIVERSOS DE JOGO</text>
   <g fill="#101a13" stroke="#a9f23a" stroke-opacity=".22" stroke-width="2">
-    <rect x="357" y="327" width="120" height="120" rx="15"/>
-    <rect x="507" y="327" width="120" height="120" rx="15"/>
-    <rect x="657" y="327" width="120" height="120" rx="15"/>
-    <rect x="807" y="327" width="120" height="120" rx="15"/>
-    <rect x="957" y="327" width="120" height="120" rx="15"/>
-    <rect x="1107" y="327" width="120" height="120" rx="15"/>
-    <rect x="1257" y="327" width="120" height="120" rx="15"/>
-    <rect x="1407" y="327" width="120" height="120" rx="15"/>
+    <rect x="360" y="327" width="120" height="120" rx="15"/>
+    <rect x="528" y="327" width="120" height="120" rx="15"/>
+    <rect x="696" y="327" width="120" height="120" rx="15"/>
+    <rect x="864" y="327" width="120" height="120" rx="15"/>
+    <rect x="1032" y="327" width="120" height="120" rx="15"/>
+    <rect x="1200" y="327" width="120" height="120" rx="15"/>
+    <rect x="1368" y="327" width="120" height="120" rx="15"/>
   </g>
   <g fill="#e8ede4" font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
-    <text x="417" y="467">REVALIO</text>
-    <text x="567" y="467">DOCALIO</text>
-    <text x="717" y="467">GRAMELIO</text>
-    <text x="867" y="467">CATELIO</text>
-    <text x="1017" y="467">DOGOLIO</text>
-    <text x="1167" y="467">MORVELIO</text>
-    <text x="1317" y="467">MAZELIO</text>
-    <text x="1467" y="467">SOCIALIO</text>
+    <text x="420" y="467">REVALIO</text>
+    <text x="588" y="467">DOCALIO</text>
+    <text x="756" y="467">GRAMELIO</text>
+    <text x="924" y="467">CATELIO</text>
+    <text x="1092" y="467">MORVELIO</text>
+    <text x="1260" y="467">MAZELIO</text>
+    <text x="1428" y="467">SOCIALIO</text>
   </g>
   <text x="52" y="480" fill="#a3b697" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">BLAJEEN.COM.BR</text>
 </svg>
