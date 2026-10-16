@@ -54,7 +54,7 @@ Interactive 3D showcases created by the lab for real estate, hospitality, and au
 
 | Product | Status | What it does |
 |---|---|---|
-| **[Revalio](https://blajeen.com.br/projects/revalio)** | [App Store](https://apps.apple.com/br/app/revalio/id6802770612) | Microlearning for people preparing for Brazil's Revalida and medical residency exams, with short sessions, learning paths, practice, review, and progress tracking. |
+| **[Revalio](https://blajeen.com.br/projects/revalio)** · [App Store](https://apps.apple.com/br/app/revalio/id6802770612) [Google Play](https://play.google.com/store/apps/details?id=br.com.revalio&hl=pt_BR) | Available on iOS · Android | Microlearning for people preparing for Brazil's Revalida and medical residency exams, with short sessions, learning paths, practice, review, and progress tracking. |
 | **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Available on iOS · Android coming soon | A level-based medical strategy game where saving patients depends on prioritizing their care correctly. Fictional cases. |
 | **[Gramelio](https://blajeen.com.br/projects/gramelio)** · Unity · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Available on iOS · Android coming soon | A casual game with compact maps: eat the right grass, manage your stomach, and return to the barn to produce milk. |
 | **[Catelio](https://blajeen.com.br/projects/catelio)** · Unity · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Available on iOS · Android coming soon | Explore a low-poly Brazilian city as a cat, at your own pace. |
