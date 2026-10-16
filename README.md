@@ -1,108 +1,123 @@
 <div align="center">
+  <p>
+    <a href="https://github.com/blajeen/blajeen/blob/main/README.md"><strong>🇺🇸 English</strong></a> ·
+    <a href="https://github.com/blajeen/blajeen/blob/main/README.pt-BR.md"><strong>🇧🇷 Português</strong></a>
+  </p>
+
   <a href="https://blajeen.com.br/">
-    <img src="https://raw.githubusercontent.com/blajeen/blajeen/main/assets/blajeen-labs-ecosystem-banner.png" alt="Identidade visual da Blajeen Labs com jogos autorais e sistemas para negócios" width="100%" />
+    <img src="https://raw.githubusercontent.com/blajeen/blajeen/main/assets/blajeen-labs-ecosystem-banner.png" alt="Blajeen Labs visual identity featuring original games and business software" width="100%" />
   </a>
 
   <h1>Breno Guimarães · Blajeen Labs</h1>
 
-  <p><strong>Desenvolvimento de software · Jogos · Laboratório de ideias</strong></p>
-  <p>Produtos digitais, jogos, SaaS e soluções personalizadas para transformar ideias e necessidades em experiências reais.</p>
+  <p><strong>Software Development · Games · Idea Lab</strong></p>
+  <p>Digital products, games, SaaS, and custom solutions that turn ideas and needs into real experiences.</p>
 
   <p>
-    <a href="https://blajeen.com.br/"><strong>Site</strong></a> ·
-    <a href="https://blajeen.com.br/crie-seu-projeto"><strong>Crie seu projeto</strong></a> ·
+    <a href="https://blajeen.com.br/"><strong>Website</strong></a> ·
+    <a href="https://blajeen.com.br/crie-seu-projeto"><strong>Start a Project</strong></a> ·
     <a href="https://www.instagram.com/blajeenlab/"><strong>Instagram</strong></a>
   </p>
 </div>
 
 ---
 
-## O laboratório
+## The Lab
 
-A **Blajeen Labs** é um estúdio independente que cria produtos próprios e transforma necessidades de clientes em experiências digitais completas. Cada projeto começa com uma pergunta, ganha forma em um protótipo, é validado no mundo real e evolui com o aprendizado.
+**Blajeen Labs** is an independent studio that builds its own products and turns client needs into complete digital experiences. Every project starts with a question, takes shape as a prototype, gets tested in the real world, and evolves through what we learn.
 
-O trabalho reúne planejamento de produto, arquitetura, documentação, UX, identidade, desenvolvimento, testes, publicação e evolução contínua. Ferramentas de IA ajudam a explorar possibilidades e acelerar etapas, enquanto decisões, qualidade e validação permanecem sob direção humana.
+Our work brings together product planning, architecture, documentation, UX, visual identity, development, testing, publishing, and continuous improvement. AI tools help us explore possibilities and move faster, while decisions, quality, and validation remain human-led.
 
-## Produtos
+## Products
 
-Programas e sites do próprio laboratório. Sem conta, sem mensalidade e sem função trancada — o que é seu fica no seu computador ou no seu aparelho.
+Apps and websites built by the lab. No accounts, subscriptions, or locked features — what belongs to you stays on your computer or device.
 
-| Produto | Estado | Para que existe |
+| Product | Status | What it does |
 |---|---|---|
-| **[Clearlio](https://blajeen.com.br/produtos/clearlio)** · [downloads](https://github.com/blajeen/clearlio-download/releases) | Disponível | Limpeza de disco para Windows que explica cada coisa antes de tirar. Nada é apagado de vez: tudo vai para uma lixeira própria, fica 30 dias e volta com um clique. |
-| **[Notalio](https://blajeen.com.br/produtos/notalio)** · [downloads](https://github.com/blajeen/notalio-download/releases) | Disponível | Bloco de notas com três cadernos que se alternam por um interruptor: texto, tabela e lista de tarefas. Guarda sozinho, em `.txt`, `.csv` e `.md` comuns que abrem em qualquer programa. |
-| **[Vistalio](https://vistalio-chi.vercel.app)** | Em construção | Um mapa do Brasil com 628 pontos fotográficos nos 27 estados: mirantes, praias, cachoeiras e arquitetura, cada um com foto, descrição e o caminho no Google Maps. |
-| **[Planilha de Controle Financeiro](https://blajeen.com.br/produtos/planilha-financeira)** | Disponível | Controle financeiro pessoal pronto para usar: cadastre uma vez o que se repete todo mês, lance o resto conforme acontece, e o painel se vira sozinho. |
+| **[Clearlio](https://blajeen.com.br/produtos/clearlio)** · [downloads](https://github.com/blajeen/clearlio-download/releases) | Available | A Windows disk cleanup tool that explains what each item is before removing it. Nothing is permanently deleted: files go to the app's own recycle bin, stay there for 30 days, and can be restored with one click. |
+| **[Notalio](https://blajeen.com.br/produtos/notalio)** · [downloads](https://github.com/blajeen/notalio-download/releases) | Available | A note-taking app with three notebooks you can switch between: text, tables, and to-do lists. It saves automatically in standard `.txt`, `.csv`, and `.md` files that open in other programs. |
+| **[Vistalio](https://vistalio-chi.vercel.app)** | In development | A map of Brazil with 628 photography spots across its 27 federal units: viewpoints, beaches, waterfalls, and architecture, each with a photo, description, and Google Maps directions. |
+| **[Personal Finance Spreadsheet](https://blajeen.com.br/produtos/planilha-financeira)** | Available | A ready-to-use personal finance tracker: set up recurring monthly items once, add other transactions as they happen, and let the dashboard update automatically. |
 
-> O código destes produtos é fechado. O que é público são os arquivos para baixar, com o SHA-256 de cada um — enquanto não houver assinatura de código, é isso que permite conferir que o arquivo baixado é o mesmo que saiu daqui.
+> These products are closed-source. Publicly available downloads include SHA-256 checksums for their files — until code signing is in place, this provides a way to check that a downloaded file matches the one released here.
 
-## Jogos e experiências autorais
+## 3D & Interactive Experiences
 
-| Produto | Estado | Para que existe |
+Interactive 3D showcases created by the lab for real estate, hospitality, and automotive businesses. Both have live demos with sample data and can be adapted to a client's brand and workflow.
+
+| Experience | Format | What it does |
 |---|---|---|
-| **[Revalio](https://blajeen.com.br/projects/revalio)** | Disponível | Microaprendizagem para quem estuda para o Revalida e para a residência, com sessões curtas, trilhas, prática, revisão e progresso. |
-| **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Disponível no iOS · Android em breve | Jogo de estratégia médica por níveis no qual salvar os pacientes depende de priorizar corretamente cada atendimento. Casos ficcionais. |
-| **[Gramelio](https://blajeen.com.br/projects/gramelio)** · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Disponível no iOS · Android em breve | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
-| **[Catelio](https://blajeen.com.br/projects/catelio)** · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Disponível no iOS · Android em breve | Explore uma cidade brasileira low-poly com um gato, no seu ritmo. |
-| **[Morvelio](https://blajeen.com.br/projects/morvelio)** | Protótipo jogável · em desenvolvimento | Action-roguelite mobile com campanha solo, exploração e combates. A página mostra capturas reais do protótipo em testes. |
-| **[Mazelio](https://blajeen.com.br/projects/mazelio)** · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Disponível no iOS · Android em breve | Tower defense vertical em que cada torre causa dano e também vira parede: você constrói o labirinto por onde os inimigos vão passar. |
-| **[Socialio](https://blajeen.com.br/projects/socialio)** | Em formação | MMO social 2D de cima para celular, em que as pessoas dividem a cidade de Graystones e escutam a mesma programação musical no mesmo momento. |
+| **[Torrelio](https://blajeen.com.br/produtos/torrelio)** | Live 3D demo · Custom project | An interactive 3D building showcase for property developers and hotels. Explore floors and units, availability, pricing, construction progress, hotel occupancy, and a sample management dashboard, with an optional 3D apartment preview. |
+| **[Carrelio](https://blajeen.com.br/produtos/carrelio)** | Live 3D demo · Custom project | An interactive 3D car showroom where visitors can rotate the vehicle, explore colors and interior details, and experience a sample dealership dashboard for inventory and test-drive requests. |
 
-> Quatro jogos já estão na App Store. As versões para Google Play estão em preparação, sem data anunciada. Os demais projetos são apresentados conforme o estágio real: protótipo jogável ou desenvolvimento.
+## Original Games & Experiences
 
-## SaaS Blajeen Labs
-
-Bases próprias adaptadas à identidade, às regras e à rotina de cada negócio — sem transformar operações diferentes em produtos genéricos.
-
-| SaaS | Criado para | Direção do produto |
+| Product | Status | What it does |
 |---|---|---|
-| **[Barbelio](https://blajeen.com.br/projects/barbelio)** | Barbearias | Site, agendamento sem conta para o cliente, equipe, serviços e gestão da rotina. |
-| **[Studelio](https://blajeen.com.br/projects/studelio)** | Personal trainers e estúdios | Presença digital, agenda, treinos, acompanhamento de alunos e gestão conectados. |
-| **[Beautelio](https://blajeen.com.br/projects/beautelio)** | Estética, unhas, sobrancelhas e maquiagem | Site, serviços, profissionais, portfólio, agendamento, histórico e gestão. |
-| **[Lojalio](https://blajeen.com.br/projects/lojalio)** | Lojas e marcas | Vitrine própria, catálogo, busca, carrinho, atendimento assistido, estoque e painel de gestão. |
-| **[Doutelio](https://blajeen.com.br/projects/doutelio)** | Médicos independentes e consultórios | Site, agenda, pacientes, prontuário e preparação de documentos clínicos em um só fluxo. |
-| **[Foodelio](https://blajeen.com.br/projects/foodelio)** | Restaurantes e operações de alimentação | Cardápio digital e organização de pedidos em uma experiência com identidade própria. |
-| **[Pipelio](https://blajeen.com.br/projects/pipelio)** | Profissionais e equipes comerciais | CRM para organizar contatos, oportunidades, etapas e próximos passos sem perder contexto. |
-| **[Painel central](https://blajeen.com.br/projects/painel-administrativo)** | Operações que usam os SaaS | Administração completa para ajustar identidade, módulos, dados e rotina do SaaS em um só lugar. |
+| **[Revalio](https://blajeen.com.br/projects/revalio)** | [App Store](https://apps.apple.com/br/app/revalio/id6802770612) | Microlearning for people preparing for Brazil's Revalida and medical residency exams, with short sessions, learning paths, practice, review, and progress tracking. |
+| **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Available on iOS · Android coming soon | A level-based medical strategy game where saving patients depends on prioritizing their care correctly. Fictional cases. |
+| **[Gramelio](https://blajeen.com.br/projects/gramelio)** · Unity · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Available on iOS · Android coming soon | A casual game with compact maps: eat the right grass, manage your stomach, and return to the barn to produce milk. |
+| **[Catelio](https://blajeen.com.br/projects/catelio)** · Unity · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Available on iOS · Android coming soon | Explore a low-poly Brazilian city as a cat, at your own pace. |
+| **[Morvelio](https://blajeen.com.br/projects/morvelio)** · Unity | Closed Beta | A story-driven mobile action roguelite inspired by the first 200 pages of an original fantasy book written by the studio’s founder. The novel’s world comes to life through a single-player campaign, exploration, and combat. Real prototype screenshots are available on the project page. |
+| **[Mazelio](https://blajeen.com.br/projects/mazelio)** · Unity · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Available on iOS · Android coming soon | A vertical tower defense game where every tower deals damage and also acts as a wall: you build the maze enemies will follow. |
+| **[Socialio](https://blajeen.com.br/projects/socialio)** · Unity | Closed Beta | A top-down 2D social MMO for mobile, where players share the city of Graystones and listen to the same music broadcast at the same time. |
+| **Erdavia** · Unreal Engine | In development for Steam | A story-driven fantasy game that continues the world introduced in Morvelio, with a focus on more realistic visuals using Unreal Engine and Gaea. |
 
-## Projetos feitos para clientes
+> Four games are already on the App Store. Google Play versions are in preparation, with no announced release date. Erdavia is being developed for Steam; no release date has been announced. Other projects are presented according to their actual stage: playable prototype or development.
+
+## Blajeen Labs SaaS
+
+In-house product foundations adapted to each business's identity, rules, and day-to-day operations — without turning different workflows into generic products.
+
+| SaaS | Built for | Product focus |
+|---|---|---|
+| **[Barbelio](https://blajeen.com.br/projects/barbelio)** | Barbershops | Website, appointments without requiring customers to create accounts, staff, services, and daily operations management. |
+| **[Studelio](https://blajeen.com.br/projects/studelio)** | Personal trainers and studios | Online presence, scheduling, workouts, student progress tracking, and connected management. |
+| **[Beautelio](https://blajeen.com.br/projects/beautelio)** | Beauty, nails, brows, and makeup businesses | Website, services, professionals, portfolio, appointments, customer history, and management. |
+| **[Lojalio](https://blajeen.com.br/projects/lojalio)** | Stores and brands | Branded storefront, catalog, search, cart, assisted customer service, inventory, and a management dashboard. |
+| **[Doutelio](https://blajeen.com.br/projects/doutelio)** | Independent doctors and clinics | Website, scheduling, patients, medical records, and clinical document preparation in one workflow. |
+| **[Foodelio](https://blajeen.com.br/projects/foodelio)** | Restaurants and food businesses | Digital menu and order management in an experience built around each business's identity. |
+| **[Pipelio](https://blajeen.com.br/projects/pipelio)** | Sales professionals and teams | CRM for organizing contacts, opportunities, stages, and next steps without losing context. |
+| **[Central Admin Panel](https://blajeen.com.br/projects/painel-administrativo)** | Businesses using the SaaS products | Centralized administration to customize identity, modules, data, and day-to-day SaaS operations. |
+
+## Projects Built for Clients
 
 ### [Lina Art Pet](https://blajeen.com.br/trabalhos/lina-art-pet)
 
-Experiência digital criada para um ateliê que transforma fotos de pets em miniaturas 3D personalizadas. O projeto reuniu narrativa, catálogo, galeria de trabalhos reais, visualização 3D e uma jornada de personalização antes do atendimento.
+A digital experience created for a studio that turns pet photos into personalized 3D miniatures. The project combines storytelling, a catalog, a gallery of real work, 3D visualization, and a customization journey before contacting the studio.
 
 ### [Dom Guima](https://blajeen.com.br/trabalhos/dom-guima)
 
-E-commerce desenvolvido com catálogo próprio e um painel administrativo personalizado para o dono controlar produtos, imagens, preços, disponibilidade e estoque de acordo com a operação real da loja.
+An e-commerce site with its own product catalog and a custom admin dashboard that lets the owner manage products, images, prices, availability, and stock according to the store's real operations.
 
 ### [Pousada Dona Lia](https://blajeen.com.br/trabalhos/dona-lia)
 
-Site de hospedagem com apresentação das acomodações, contato direto e painel privado para organizar reservas. Projeto em homologação.
+A hospitality website showcasing accommodations, with direct contact options and a private dashboard to organize reservations. Currently in acceptance testing.
 
 ### [Spot Hotel e Pousada](https://blajeen.com.br/trabalhos/spot-hotel)
 
-Site para apresentar a hospedagem e painel privado para agenda, reservas, hóspedes e operação. Projeto em homologação.
+A hospitality website with a private dashboard for schedules, reservations, guests, and operations. Currently in acceptance testing.
 
 ### [Agro Weld](https://blajeen.com.br/trabalhos/agro-weld)
 
-Vitrine e catálogo digital para EPIs em couro, vestimentas agrícolas e uniformes, com caminhos de compra e orçamento.
+A digital storefront and catalog for leather protective equipment, agricultural clothing, and uniforms, with paths to purchase or request a quote.
 
-## Princípios de produto
+## Product Principles
 
-- **Começar pequeno e aprender rápido.** Ideias viram protótipos verificáveis antes de crescerem.
-- **Resolver uma necessidade real.** Funcionalidade só importa quando melhora a experiência ou a operação.
-- **Identidade faz parte do produto.** Marca, linguagem, interface e regras do negócio são tratadas como um sistema único.
-- **Mostrar o que existe.** Conceitos, demonstrações e produtos disponíveis são comunicados em estados diferentes, sem promessas vazias.
-- **IA como ferramenta, não como atalho.** A tecnologia acelera pesquisa, planejamento e desenvolvimento; a validação continua humana.
-- **Publicar é o começo.** Suporte, manutenção, aprendizado e novas versões fazem parte da vida do produto.
+- **Start small and learn fast.** Ideas become testable prototypes before they grow.
+- **Solve a real need.** A feature matters only when it improves an experience or a workflow.
+- **Identity is part of the product.** Brand, language, interface, and business rules are treated as one system.
+- **Show what's actually there.** Concepts, demos, and available products are clearly presented at different stages, without empty promises.
+- **AI as a tool, not a shortcut.** Technology speeds up research, planning, and development; validation remains human-led.
+- **Publishing is just the beginning.** Support, maintenance, learning, and new versions are part of a product's life.
 
-## Método do laboratório
+## How the Lab Works
 
 ```text
-PERGUNTA → DIAGNÓSTICO → PROTÓTIPO → PRODUTO → VALIDAÇÃO → APRENDIZADO → EVOLUÇÃO
+QUESTION → ASSESSMENT → PROTOTYPE → PRODUCT → VALIDATION → LEARNING → EVOLUTION
 ```
 
 <div align="center">
   <p><strong>Build strange things. Make them matter.</strong></p>
-  <p><a href="https://blajeen.com.br/crie-seu-projeto">Coloque sua ideia em prática com a Blajeen Labs →</a></p>
+  <p><a href="https://blajeen.com.br/crie-seu-projeto">Bring your idea to life with Blajeen Labs →</a></p>
 </div>
