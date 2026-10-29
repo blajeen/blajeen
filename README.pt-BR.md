@@ -54,16 +54,16 @@ Demonstrações 3D interativas criadas pelo laboratório para os setores imobili
 
 | Produto | Estado | Para que existe |
 |---|---|---|
-| **[Revalio](https://blajeen.com.br/projects/revalio)** | [App Store](https://apps.apple.com/br/app/revalio/id6802770612) | Microaprendizagem para quem estuda para o Revalida e para a residência, com sessões curtas, trilhas, prática, revisão e progresso. |
-| **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Disponível no iOS · Android em breve | Jogo de estratégia médica por níveis no qual salvar os pacientes depende de priorizar corretamente cada atendimento. Casos ficcionais. |
-| **[Gramelio](https://blajeen.com.br/projects/gramelio)** · Unity · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Disponível no iOS · Android em breve | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
-| **[Catelio](https://blajeen.com.br/projects/catelio)** · Unity · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Disponível no iOS · Android em breve | Explore uma cidade brasileira low-poly com um gato, no seu ritmo. |
+| **[Revalio](https://blajeen.com.br/projects/revalio)** · [App Store](https://apps.apple.com/br/app/revalio/id6802770612) [Google Play](https://play.google.com/store/apps/details?id=br.com.revalio&hl=pt_BR) | Disponível no Android e no iOS | Microaprendizagem para quem estuda para o Revalida e para a residência, com sessões curtas, trilhas, prática, revisão e progresso. |
+| **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Disponível no Android e no iOS | Jogo de estratégia médica por níveis no qual salvar os pacientes depende de priorizar corretamente cada atendimento. Casos ficcionais. |
+| **[Gramelio](https://blajeen.com.br/projects/gramelio)** · Unity · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Disponível no Android e no iOS | Jogo casual de mapas compactos: comer a grama certa, administrar o estômago e voltar ao curral para produzir leite. |
+| **[Catelio](https://blajeen.com.br/projects/catelio)** · Unity · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Disponível no Android e no iOS | Explore uma cidade brasileira low-poly com um gato, no seu ritmo. |
 | **[Morvelio](https://blajeen.com.br/projects/morvelio)** · Unity | Closed Beta | Action-roguelite mobile com narrativa inspirada nas primeiras 200 páginas de um livro original de fantasia escrito pelo fundador do estúdio. O universo do livro ganha vida em uma campanha solo com exploração e combates. A página apresenta capturas reais do protótipo em testes. |
-| **[Mazelio](https://blajeen.com.br/projects/mazelio)** · Unity · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Disponível no iOS · Android em breve | Tower defense vertical em que cada torre causa dano e também vira parede: você constrói o labirinto por onde os inimigos vão passar. |
+| **[Mazelio](https://blajeen.com.br/projects/mazelio)** · Unity · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Disponível no Android e no iOS | Tower defense vertical em que cada torre causa dano e também vira parede: você constrói o labirinto por onde os inimigos vão passar. |
 | **[Socialio](https://blajeen.com.br/projects/socialio)** · Unity | Closed Beta | MMO social 2D de cima para celular, em que as pessoas dividem a cidade de Graystones e escutam a mesma programação musical no mesmo momento. |
 | **Erdavia** · Unreal Engine | Em desenvolvimento para Steam | Jogo de fantasia com narrativa que dá continuidade ao universo apresentado em Morvelio, com foco em visuais mais realistas usando Unreal Engine e Gaea. |
 
-> Quatro jogos já estão na App Store. As versões para Google Play estão em preparação, sem data anunciada. Erdavia está em desenvolvimento para Steam, ainda sem data de lançamento. Os demais projetos são apresentados conforme o estágio real: protótipo jogável ou desenvolvimento.
+> Revalio, Docalio, Gramelio, Catelio e Mazelio estão disponíveis no Google Play e na App Store. Erdavia está em desenvolvimento para Steam, ainda sem data de lançamento. Os demais projetos são apresentados conforme o estágio real: protótipo jogável ou desenvolvimento.
 
 ## SaaS Blajeen Labs
 
