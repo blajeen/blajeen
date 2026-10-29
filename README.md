@@ -58,12 +58,12 @@ Interactive 3D showcases created by the lab for real estate, hospitality, and au
 | **[Docalio](https://blajeen.com.br/projects/docalio)** · [App Store](https://apps.apple.com/br/app/docalio/id6806569271) | Available on Android and iOS | A level-based medical strategy game where saving patients depends on prioritizing their care correctly. Fictional cases. |
 | **[Gramelio](https://blajeen.com.br/projects/gramelio)** · Unity · [App Store](https://apps.apple.com/br/app/gramelio/id6805123148) | Available on Android and iOS | A casual game with compact maps: eat the right grass, manage your stomach, and return to the barn to produce milk. |
 | **[Catelio](https://blajeen.com.br/projects/catelio)** · Unity · [App Store](https://apps.apple.com/br/app/catelio/id6806569561) | Available on Android and iOS | Explore a low-poly Brazilian city as a cat, at your own pace. |
-| **[Morvelio](https://blajeen.com.br/projects/morvelio)** · Unity | Closed Beta | A story-driven mobile action roguelite inspired by the first 200 pages of an original fantasy book written by the studio’s founder. The novel’s world comes to life through a single-player campaign, exploration, and combat. Real prototype screenshots are available on the project page. |
+| **[Morvelio](https://blajeen.com.br/projects/morvelio)** · Unity | Available on Android and iOS | A story-driven mobile action roguelite inspired by the first 200 pages of an original fantasy book written by the studio’s founder. The novel’s world comes to life through a single-player campaign, exploration, and combat. Real development screenshots are available on the project page. |
 | **[Mazelio](https://blajeen.com.br/projects/mazelio)** · Unity · [App Store](https://apps.apple.com/br/app/mazelio/id6809216284) | Available on Android and iOS | A vertical tower defense game where every tower deals damage and also acts as a wall: you build the maze enemies will follow. |
-| **[Socialio](https://blajeen.com.br/projects/socialio)** · Unity | Closed Beta | A top-down 2D social MMO for mobile, where players share the city of Graystones and listen to the same music broadcast at the same time. |
+| **[Socialio](https://blajeen.com.br/projects/socialio)** · Unity | Available on Android and iOS | A top-down 2D social MMO for mobile, where players share the city of Graystones and listen to the same music broadcast at the same time. |
 | **Erdavia** · Unreal Engine | In development for Steam | A story-driven fantasy game that continues the world introduced in Morvelio, with a focus on more realistic visuals using Unreal Engine and Gaea. |
 
-> Revalio, Docalio, Gramelio, Catelio, and Mazelio are available on Google Play and the App Store. Erdavia is being developed for Steam; no release date has been announced. Other projects are presented according to their actual stage: playable prototype or development.
+> Revalio, Docalio, Gramelio, Catelio, Morvelio, Mazelio, and Socialio are available on Google Play and the App Store. Erdavia is being developed for Steam; no release date has been announced.
 
 ## Blajeen Labs SaaS
 
