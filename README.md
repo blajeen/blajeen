@@ -41,6 +41,22 @@ Apps and websites built by the lab. No accounts, subscriptions, or locked featur
 
 > These products are closed-source. Publicly available downloads include SHA-256 checksums for their files — until code signing is in place, this provides a way to check that a downloaded file matches the one released here.
 
+## Open-source Browser Extensions
+
+Free extensions for Chrome and Edge, with source code under the MIT license.
+
+| Extension | What it does | Chrome Web Store |
+|---|---|---|
+| **[Growlio](https://github.com/blajeen/growlio)** | Daily tasks, a growing island, short breaks, and seven days of local progress. | Manual installation available |
+| **[Findlio](https://github.com/blajeen/Findlio)** | Searches accessible pages on the current website and shows links and matching excerpts. | Manual installation available |
+| **[Grammarlio](https://github.com/blajeen/Grammarlio)** · v0.3.0 | Local English and Portuguese spelling and initial grammar checks, inline suggestions, and optional local AI rewriting. | Manual installation available |
+| **[Taskelio](https://github.com/blajeen/taskelio)** | Configurable activity counters, daily goals, local history, and CSV reports. | Submitted for public review |
+| **[Scopelio](https://github.com/blajeen/Scopelio)** | Color-coded term highlights, match navigation, and a donut chart of occurrences. | Submitted for public review |
+
+[Explore the extensions on the website →](https://blajeen.com.br/produtos/extensoes)
+
+Settings stay on each device; Google account sync does not currently transfer filters, rules, or tasks. Findlio requests pages directly from the searched website. Grammarlio downloads model data only when its optional AI feature is activated; writing is processed locally. Store submission does not mean approval or availability.
+
 ## 3D & Interactive Experiences
 
 Interactive 3D showcases created by the lab for real estate, hospitality, and automotive businesses. Both have live demos with sample data and can be adapted to a client's brand and workflow.
