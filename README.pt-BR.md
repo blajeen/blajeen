@@ -41,6 +41,22 @@ Programas e sites do próprio laboratório. Sem conta, sem mensalidade e sem fun
 
 > O código destes produtos é fechado. O que é público são os arquivos para baixar, com o SHA-256 de cada um — enquanto não houver assinatura de código, é isso que permite conferir que o arquivo baixado é o mesmo que saiu daqui.
 
+## Extensões open source para o navegador
+
+Extensões gratuitas para Chrome e Edge, com código aberto sob licença MIT.
+
+| Extensão | Para que existe | Chrome Web Store |
+|---|---|---|
+| **[Growlio](https://github.com/blajeen/growlio)** | Tarefas do dia, uma ilha que evolui, pausas rápidas e sete dias de progresso local. | Instalação manual disponível |
+| **[Findlio](https://github.com/blajeen/Findlio)** | Busca nas páginas acessíveis do site atual e apresenta links e trechos encontrados. | Instalação manual disponível |
+| **[Grammarlio](https://github.com/blajeen/Grammarlio)** · v0.3.0 | Ortografia e regras gramaticais iniciais em português e inglês, sugestões direto nos campos e reescrita opcional com IA local. | Instalação manual disponível |
+| **[Taskelio](https://github.com/blajeen/taskelio)** | Contadores de atividades configuráveis, metas diárias, histórico local e relatórios CSV. | Enviado para análise pública |
+| **[Scopelio](https://github.com/blajeen/Scopelio)** | Destaques de termos por cor, navegação entre ocorrências e gráfico de distribuição. | Enviado para análise pública |
+
+[Conheça as extensões no site →](https://blajeen.com.br/produtos/extensoes)
+
+As configurações ficam em cada dispositivo; a conta Google ainda não transfere filtros, regras ou tarefas. O Findlio faz requisições diretamente ao site pesquisado. O Grammarlio baixa os dados do modelo somente quando a IA opcional é ativada; a revisão do texto permanece local. Envio à loja não significa aprovação ou disponibilidade.
+
 ## Experiências 3D e interativas
 
 Demonstrações 3D interativas criadas pelo laboratório para os setores imobiliário, hoteleiro e automotivo. Ambas têm demonstrações abertas com dados de exemplo e podem ser adaptadas à marca e à operação de cada cliente.
