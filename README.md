@@ -49,7 +49,7 @@ Free extensions for Chrome and Edge, with source code under the MIT license.
 |---|---|---|
 | **[Growlio](https://github.com/blajeen/growlio)** | Daily tasks, a growing island, short breaks, and seven days of local progress. | Manual installation available |
 | **[Findlio](https://github.com/blajeen/Findlio)** | Searches accessible pages on the current website and shows links and matching excerpts. | Manual installation available |
-| **[Grammarlio](https://github.com/blajeen/Grammarlio)** | Local English and Portuguese spelling and initial grammar checks, inline suggestions, and optional local AI rewriting. | Manual installation available |
+| **[Grammarlio](https://github.com/blajeen/Grammarlio)** | Local English, Portuguese and spanish spelling and initial grammar checks, inline suggestions, and optional local AI rewriting. | Manual installation available |
 | **[Taskelio](https://github.com/blajeen/taskelio)** | Configurable activity counters, daily goals, local history, and CSV reports. | Submitted for public review |
 | **[Scopelio](https://github.com/blajeen/Scopelio)** | Color-coded term highlights, match navigation, and a donut chart of occurrences. | Submitted for public review |
 
