@@ -28,6 +28,13 @@
 
 Our work brings together product planning, architecture, documentation, UX, visual identity, development, testing, publishing, and continuous improvement. AI tools help us explore possibilities and move faster, while decisions, quality, and validation remain human-led.
 
+## Apps & Services
+
+| Product | Status | What it does |
+|---|---|---|
+| **[Ofertonauta](https://blajeen.com.br/produtos/ofertonauta)** · [website](https://ofertonauta.vercel.app) | Web available · App in preparation | A deals and coupons radar with a crew that votes, comments, and saves finds. Purchases happen in the original store. |
+| **[Guardelio](https://blajeen.com.br/produtos/guardelio)** · [website](https://www.guardelio.com.br/) | Available | Managed protection for paid media: it monitors, investigates, and organizes the protection of paid traffic, with validated savings and human control. Essential, Pro, and Ultra plans. In partnership with João Arita. |
+
 ## Products
 
 Apps and websites built by the lab. No accounts, subscriptions, or locked features — what belongs to you stays on your computer or device.

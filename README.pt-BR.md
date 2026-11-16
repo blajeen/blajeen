@@ -28,6 +28,13 @@ A **Blajeen Labs** é um estúdio independente que cria produtos próprios e tra
 
 O trabalho reúne planejamento de produto, arquitetura, documentação, UX, identidade, desenvolvimento, testes, publicação e evolução contínua. Ferramentas de IA ajudam a explorar possibilidades e acelerar etapas, enquanto decisões, qualidade e validação permanecem sob direção humana.
 
+## Aplicativos e serviços
+
+| Produto | Estado | Para que existe |
+|---|---|---|
+| **[Ofertonauta](https://blajeen.com.br/produtos/ofertonauta)** · [site](https://ofertonauta.vercel.app) | Web disponível · App em preparação | Um radar de ofertas e cupons com uma tripulação que vota, comenta e salva os achados. A compra acontece na loja de origem. |
+| **[Guardelio](https://blajeen.com.br/produtos/guardelio)** · [site](https://www.guardelio.com.br/) | Disponível | Proteção gerenciada para mídia paga: observa, investiga e organiza a proteção do tráfego pago, com economia validada e controle humano. Planos Essencial, Pro e Ultra. Em parceria com João Arita. |
+
 ## Produtos
 
 Programas e sites do próprio laboratório. Sem conta, sem mensalidade e sem função trancada — o que é seu fica no seu computador ou no seu aparelho.
